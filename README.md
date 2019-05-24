@@ -1,4 +1,4 @@
-# CppGenericsExample
+# CppCLIGenericsExample
 This example shows how to generate multiple generic interface implementations using C++/CLI template. There is the `IGeneric<T>` interface. C++/CLI template is used to generate specific implementations of this interface for `UInt64`, `UInt32`, `UInt16` and `Byte` types. All implementations share single base template `ClassTemplate` logic.
 
 The problem with current approach is that it works only for Windows while support for C++/CLI is not crossplatform.
