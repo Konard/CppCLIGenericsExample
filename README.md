@@ -15,3 +15,4 @@ It is possible to achieve the same result using [C#, T4 text template and .NET C
 * Press `F5` to build and start program
 
 ## Development process videos
+https://youtu.be/MSjBlWnINQQ
